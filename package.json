@@ -1,0 +1,15 @@
+{
+  "name": "ts_learn",
+  "version": "1.0.0",
+  "description": "Learning TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "aruangalves",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
